@@ -1,4 +1,4 @@
-# Nagigation Bar Training
+# Navigation Bar Training
 
 ### What Is This?
 - This repository is for all the nagivation menus i've made and understood how to build.
