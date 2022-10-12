@@ -10,3 +10,19 @@
     list-style: none;
     color: white;
 }
+
+body{
+    background-color: #1e1e1e;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.logo{
+    font-weight: 900;
+    font-size: 35px;
+    margin-left: 40px;
+}
