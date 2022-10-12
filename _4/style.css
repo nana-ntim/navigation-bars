@@ -26,3 +26,18 @@ header{
     font-size: 35px;
     margin-left: 40px;
 }
+
+.logo a:hover{
+    color: aqua;
+    transition: .5s;
+
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    margin: 20px;
+    padding: 10px;
+}
