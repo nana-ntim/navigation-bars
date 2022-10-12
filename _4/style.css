@@ -41,3 +41,11 @@ li{
     margin: 20px;
     padding: 10px;
 }
+
+li a{
+    padding: 10px;
+}
+
+li a:hover{
+    border-bottom: 1px solid aqua;
+}
